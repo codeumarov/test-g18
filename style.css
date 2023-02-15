@@ -1,5 +1,5 @@
 #title {
-  color: red
+  color: red;
 }
 
 .featured-products {
@@ -8,4 +8,8 @@
 
 .cta {
   background-color: blue;
+}
+
+.element {
+  color: white;
 }
